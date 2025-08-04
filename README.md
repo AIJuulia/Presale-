@@ -61,7 +61,7 @@ Suomeksi koulutettu
 
 Maksutavat:
 
-MobilePay: 0417111611
+MobilePay: 
 
 Suorapankki: (kysy sähköpostitse: aijuulia@gmail.com)
 
